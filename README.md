@@ -95,7 +95,7 @@ A curated list of papers focusing on **3D hand-object interaction** from top-tie
 | **Physics-Aware Hand-Object Interaction Denoising** | CVPR | 2024 | - |
 | **CPF: Learning a Contact Potential Field to Model the Hand-Object Interaction** | ICCV | 2021 | [GitHub](https://github.com/lixiny/CPF) |
 | **ContactOpt: Optimizing Contact to Improve Grasps** | CVPR | 2021 | - |
-| **VPHO: Joint Visual-Physical Cue Learning and Aggregation for Hand-Object Pose Estimation** | arXiv | 2025 | [arXiv](https://arxiv.org/abs/2511.12030) |
+| **VPHO: Joint Visual-Physical Cue Learning and Aggregation for Hand-Object Pose Estimation** | AAAI | 2026 | [arXiv](https://arxiv.org/abs/2511.12030) |
 | **DeepSimHO: Stable Pose Estimation for Hand-Object Interaction via Physics Simulation** | NeurIPS | 2023 | [GitHub](https://github.com/rongakowang/DeepSimHO) |
 | **OakInk: A Large-Scale Knowledge Repository for Understanding Hand-Object Interaction** | CVPR | 2022 | [Project](https://oakink.net/) |
 | **Leveraging Photometric Consistency over Time for Sparsely Supervised Hand-Object Reconstruction** | CVPR | 2021 | - |
